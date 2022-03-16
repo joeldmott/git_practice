@@ -1,0 +1,1 @@
+This is a practice file where I try adding something to my repo while also practicing with Vim.
